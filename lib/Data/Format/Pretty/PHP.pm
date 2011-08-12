@@ -45,7 +45,7 @@ This module uses L<Data::Dump::PHP> to encode data as PHP code.
 
 =head2 format_pretty($data, \%opts)
 
-Return formatted data structure as JSON. Currently there are no known formatting
+Return formatted data structure. Currently there are no known formatting
 options.
 
 
