@@ -12,6 +12,8 @@ our @EXPORT_OK = qw(format_pretty);
 
 # VERSION
 
+sub content_type { "application/x-httpd-php-source" }
+
 sub format_pretty {
     my ($data, $opts) = @_;
     $opts //= {};
