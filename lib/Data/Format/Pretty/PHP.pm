@@ -1,6 +1,6 @@
 package Data::Format::Pretty::PHP;
 
-use 5.010;
+use 5.010001;
 use strict;
 use warnings;
 
@@ -58,4 +58,3 @@ L<Data::Format::Pretty>
 L<Data::Format::Pretty::PHPSerialized>
 
 =cut
-
